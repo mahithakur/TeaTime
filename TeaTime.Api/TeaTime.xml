@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TeaTime.Api</name>
+    </assembly>
+    <members>
+        <member name="M:TeaTime.Api.Controllers.NationalParkController.GetNationalParks">
+            <summary>
+            Get The List of All National Park
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TeaTime.Api.Controllers.NationalParkController.GetNationalPark(System.Int32)">
+            <summary>
+            Get Individual National Park by Id
+            </summary>
+            <param name="nationalParkId"> The Id of the National Park +</param> 
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\bin\Debug\netcoreapp3.1\TeaTime.Data.deps.json
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\bin\Debug\netcoreapp3.1\TeaTime.Data.dll
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\bin\Debug\netcoreapp3.1\TeaTime.Data.pdb
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\bin\Debug\netcoreapp3.1\NationalPark.Entities.dll
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\bin\Debug\netcoreapp3.1\NationalPark.Entities.pdb
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\obj\Debug\netcoreapp3.1\TeaTime.Data.csprojAssemblyReference.cache
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\obj\Debug\netcoreapp3.1\TeaTime.Data.AssemblyInfoInputs.cache
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\obj\Debug\netcoreapp3.1\TeaTime.Data.AssemblyInfo.cs
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\obj\Debug\netcoreapp3.1\TeaTime.Data.csproj.CoreCompileInputs.cache
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\obj\Debug\netcoreapp3.1\TeaTime.Data.csproj.CopyComplete
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\obj\Debug\netcoreapp3.1\TeaTime.Data.dll
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Data\obj\Debug\netcoreapp3.1\TeaTime.Data.pdb

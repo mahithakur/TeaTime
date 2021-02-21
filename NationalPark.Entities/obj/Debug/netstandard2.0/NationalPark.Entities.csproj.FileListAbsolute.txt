@@ -1,0 +1,9 @@
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\NationalPark.Entities\bin\Debug\netstandard2.0\NationalPark.Entities.deps.json
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\NationalPark.Entities\bin\Debug\netstandard2.0\NationalPark.Entities.dll
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\NationalPark.Entities\bin\Debug\netstandard2.0\NationalPark.Entities.pdb
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\NationalPark.Entities\obj\Debug\netstandard2.0\NationalPark.Entities.csprojAssemblyReference.cache
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\NationalPark.Entities\obj\Debug\netstandard2.0\NationalPark.Entities.AssemblyInfoInputs.cache
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\NationalPark.Entities\obj\Debug\netstandard2.0\NationalPark.Entities.AssemblyInfo.cs
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\NationalPark.Entities\obj\Debug\netstandard2.0\NationalPark.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\NationalPark.Entities\obj\Debug\netstandard2.0\NationalPark.Entities.dll
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\NationalPark.Entities\obj\Debug\netstandard2.0\NationalPark.Entities.pdb

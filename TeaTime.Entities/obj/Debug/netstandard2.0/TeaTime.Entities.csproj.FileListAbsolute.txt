@@ -1,0 +1,9 @@
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Entities\bin\Debug\netstandard2.0\TeaTime.Entities.deps.json
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Entities\bin\Debug\netstandard2.0\TeaTime.Entities.dll
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Entities\bin\Debug\netstandard2.0\TeaTime.Entities.pdb
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Entities\obj\Debug\netstandard2.0\TeaTime.Entities.csprojAssemblyReference.cache
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Entities\obj\Debug\netstandard2.0\TeaTime.Entities.AssemblyInfoInputs.cache
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Entities\obj\Debug\netstandard2.0\TeaTime.Entities.AssemblyInfo.cs
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Entities\obj\Debug\netstandard2.0\TeaTime.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Entities\obj\Debug\netstandard2.0\TeaTime.Entities.dll
+C:\Users\mahipal\Desktop\TeaTime\TeaTime\TeaTime.Entities\obj\Debug\netstandard2.0\TeaTime.Entities.pdb
